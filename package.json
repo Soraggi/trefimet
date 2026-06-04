@@ -1,0 +1,15 @@
+{
+  "name": "trefimet",
+  "version": "1.0.0",
+  "description": "Site institucional estático da Trefimet — metalurgia e trefilação",
+  "private": true,
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["trefimet", "metalurgia", "site-estatico"],
+  "license": "UNLICENSED"
+}
